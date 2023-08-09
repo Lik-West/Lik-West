@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I am Lik</h1>
-<h3 align="center">A beginner programmer trying to learn something</h3>
+<h3 align="center">Begginer proggramer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lik-west&label=Profile%20views&color=0e75b6&style=flat" alt="lik-west" /> </p>
 
-- 🔭 I’m currently working on [Columbia Project](N/A)
+- 🔭 I’m currently working on (N/A)
 
 - 🌱 I’m currently learning **pawn-lang,node.js**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Design**
 
-- 📫 How to reach me **lovro.grguric098@gmail.com**
+- 📫 How to reach me **N/A**
 
 - 📄 Know about my experiences [N/A](N/A)
 
